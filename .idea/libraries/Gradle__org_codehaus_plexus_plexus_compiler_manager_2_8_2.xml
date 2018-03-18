@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codehaus.plexus:plexus-compiler-manager:2.8.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-compiler-manager/2.8.2/ff249d5bc58eafab1f462aa044b52ae6f69a9821/plexus-compiler-manager-2.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-compiler-manager/2.8.2/3d95e0bdd6564a8a672fb70256908279a9e54050/plexus-compiler-manager-2.8.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

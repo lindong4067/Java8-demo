@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.plugins:maven-compiler-plugin:3.7.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.plugins/maven-compiler-plugin/3.7.0/a3229c9aae47047e3a177ecfd4afa10fb5512d4e/maven-compiler-plugin-3.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.plugins/maven-compiler-plugin/3.7.0/5419e9ee9fcd2cd05e30165054bab35fc913a001/maven-compiler-plugin-3.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
